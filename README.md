@@ -11,7 +11,11 @@ Når spillet starter, begynner tiden å gå, og spilleren må kjappe seg med å 
 ## Sensorer
 For å måle posisjonen til brikken har vi brukt hall-effekt sensorer (AH49E). Selve brikken er en magnet som trigger sensorene dersom den passerer de. Tilsammen har vi koblet opp 4 hall-effekt sensorer som fungerer som checkpoints brikken må passere for registrere fullført runde. 
 
-Ellers har vi brukt en arkadeknapp med integrert ledlys som startknapp/stoppknapp. Neopixel ledlys for å gi visuell feedback og gjøre interaksjonen spennende i tillegg til en 16x2 LCD-skjerm for å kunne printe tekst til spilleren. 
+Ellers har vi brukt en arkadeknapp med integrert ledlys som startknapp/stoppknapp. Neopixel ledlys for å gi visuell feedback og gjøre interaksjonen spennende i tillegg til en 16x2 LCD-skjerm for å kunne printe tekst til spilleren. <br />
+<br />
+![Screenshot 2024-05-11 105332](https://github.com/WilliamStadheim/Proto_gruppe12/assets/47827169/5a90d6f8-1de5-43f9-88a5-089e413f13b9) <br />
+![Screenshot 2024-05-12 190323](https://github.com/WilliamStadheim/Proto_gruppe12/assets/47827169/481d6ffa-db71-47cd-9cc6-0d3b04ff0b70)
+
 
 ## Koden
 I koden bruker vi bibliotekene: <Adafruit_NeoPixel.h>, <FastLED.h> og <LiquidCrystal.h> 
