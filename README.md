@@ -2,7 +2,7 @@
 Dette er den tilhørende koden til vårt prosjekt "Spinnvill" i faget TPD4126 Prototyping av fysiske brukeropplevelser <br />
 **Gruppe 12:** Felicia Semb, Frida Hval Skiaker, Tale Tannvik Skei, William Stadheim<br />
 <br />
-![Screenshot 2024-05-12 191254](https://github.com/WilliamStadheim/Proto_gruppe12/assets/47827169/639dd28f-675b-4e6b-af48-8d668daf81cf)
+![440788512_1854762141658292_7945940177693678108_n](https://github.com/WilliamStadheim/Proto_gruppe12/assets/47827169/fe3e4daa-cb2f-4c44-9b64-642eebd2bc27)
 <br />
 ## Konseptet
 Spinnvill er et spill som utforsker konsptet om tid ved å utfordre spillerne til å måle tiden det tar å bevege en brikke rundt en modell av jordkloden. Vår ide var å bruke jorda som referanse og sammenlikne tiden lyset bruker rundt jorda i virkeligheten, med tiden man selv bruker på å føre en brikke rund en liten modell av jorda. I tillegg fokuserte vi på å gjøre modellen visuell spennende og interaksjonen engasjerende. Ved å få oppgitt tiden du bruker på en runde, får du lyst til å prøve igjen for å se hvor fort du klarer det og slå din forrige tid. 
