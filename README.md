@@ -9,9 +9,9 @@ Spinnvill er et spill som utforsker konsptet om tid ved å utfordre spillerne ti
 Når spillet starter, begynner tiden å gå, og spilleren må kjappe seg med å føre knappen langs rundt jorden. Etter at alle sensorene er passert i riktig rekkefølge og brikken har kommet i mål, stoppes tiden, og resultatet vises på LCD-skjermen. Spillerens tid sammenlignes med lysets hastighet rundt jorden.
 
 ## Sensorer
-For å måle posisjonen til brikken har vi brukt hall-effekt sensorer. Selve brikken er en stor magnet som trigger sensorene dersom den passerer de. Tilsammen har vi koblet opp 4 hall-effekt sensorer som fungerer som checkpoints brikken må passere for å fullføre runden. 
+For å måle posisjonen til brikken har vi brukt hall-effekt sensorer (AH49E). Selve brikken er en magnet som trigger sensorene dersom den passerer de. Tilsammen har vi koblet opp 4 hall-effekt sensorer som fungerer som checkpoints brikken må passere for registrere fullført runde. 
 
-Ellers har vi brukt en arkadeknapp med integrert ledlys som start/stoppknapp. Neopixel ledlys for å gi visuell feedback og gjøre interaksjonen spennende samt en 16x2 LCD-skjerm for å kunne printe tekst til spilleren. 
+Ellers har vi brukt en arkadeknapp med integrert ledlys som startknapp/stoppknapp. Neopixel ledlys for å gi visuell feedback og gjøre interaksjonen spennende i tillegg til en 16x2 LCD-skjerm for å kunne printe tekst til spilleren. 
 
 ## Koden
 I koden bruker vi bibliotekene: <Adafruit_NeoPixel.h>, <FastLED.h> og <LiquidCrystal.h> 
