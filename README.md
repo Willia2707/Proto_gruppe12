@@ -1,5 +1,4 @@
-# Proto gruppe 12
-
+# SPINNVILL
 Dette er den tilhørende koden til vårt prosjekt "Spinnvill" i faget TPD4126 Prototyping av fysiske brukeropplevelser <br />
 **Gruppe 12:** Felicia Semb, Frida Hval Skiaker, Tale Tannvik Skei, William Stadheim
 
